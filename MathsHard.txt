@@ -1,0 +1,7 @@
+Maths Hard:
+
+1. What is 12/4? a.3 | b.6 | c.4 | d.5
+2. What is the square root of 225? a.15 | b.12 | c.5 | d.25
+3. What is the solution to x**2 + 3x - 4 = 0? a.-4,1 | b.4,-1 | c.4,4 | d.2,2
+4. What do the angles in a triangle add to? a.180 degrees | b.360 degrees | c.270 degrees | d.45 degrees
+5. What is the simple version of root 24? a.2 root 6 | b.10 root 2 | c.5 | d.2 root 4
